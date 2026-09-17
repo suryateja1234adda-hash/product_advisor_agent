@@ -1,0 +1,296 @@
+{
+  "company": "LReal",
+  "currency": "INR",
+  "categories": {
+    "skin_care": [
+      {
+        "product_id": "LR-SKIN-001",
+        "product_name": "LReal Hydrabloom Face Wash",
+        "description": "A gentle hydrating face wash designed to remove dirt, excess oil, and impurities without drying the skin.",
+        "price_inr": 399,
+        "how_to_use": "Wet your face, apply a small amount of face wash, gently massage for 30-60 seconds, and rinse thoroughly. Use twice daily.",
+        "problems_it_solves": [
+          "Dryness after cleansing",
+          "Dull-looking skin",
+          "Excess dirt and impurities",
+          "Mild excess oil"
+        ],
+        "benefits": [
+          "Gently cleanses the skin",
+          "Helps maintain skin hydration",
+          "Leaves skin feeling fresh",
+          "Suitable for daily use"
+        ]
+      },
+      {
+        "product_id": "LR-SKIN-002",
+        "product_name": "LReal ClearShield Acne Control Serum",
+        "description": "A lightweight facial serum formulated for oily and acne-prone skin to help manage breakouts and excess sebum.",
+        "price_inr": 599,
+        "how_to_use": "Apply 2-3 drops to clean, dry skin once daily. Start with alternate-day usage if your skin is sensitive.",
+        "problems_it_solves": [
+          "Acne-prone skin",
+          "Excess oil",
+          "Frequent breakouts",
+          "Clogged pores"
+        ],
+        "benefits": [
+          "Helps reduce the appearance of breakouts",
+          "Helps control excess oil",
+          "Supports clearer-looking pores",
+          "Lightweight and fast absorbing"
+        ]
+      },
+      {
+        "product_id": "LR-SKIN-003",
+        "product_name": "LReal GlowRise Vitamin C Serum",
+        "description": "A brightening facial serum designed to improve the appearance of dull and uneven-looking skin.",
+        "price_inr": 749,
+        "how_to_use": "Apply 2-3 drops to cleansed skin in the morning. Follow with moisturizer and sunscreen.",
+        "problems_it_solves": [
+          "Dull skin",
+          "Uneven-looking skin tone",
+          "Loss of radiance",
+          "Visible signs of environmental stress"
+        ],
+        "benefits": [
+          "Helps brighten the appearance of skin",
+          "Supports a more even-looking complexion",
+          "Provides antioxidant support",
+          "Gives skin a healthy-looking glow"
+        ]
+      },
+      {
+        "product_id": "LR-SKIN-004",
+        "product_name": "LReal AquaLock Moisture Cream",
+        "description": "A rich yet lightweight moisturizer designed to provide long-lasting hydration for dry and dehydrated skin.",
+        "price_inr": 499,
+        "how_to_use": "Apply a small amount to the face and neck after cleansing. Use morning and evening.",
+        "problems_it_solves": [
+          "Dry skin",
+          "Dehydrated skin",
+          "Tightness after cleansing",
+          "Rough skin texture"
+        ],
+        "benefits": [
+          "Provides long-lasting hydration",
+          "Helps strengthen the skin moisture barrier",
+          "Leaves skin soft and smooth",
+          "Reduces the feeling of tightness"
+        ]
+      },
+      {
+        "product_id": "LR-SKIN-005",
+        "product_name": "LReal SunGuard SPF 50",
+        "description": "A lightweight broad-spectrum sunscreen designed for daily protection against UVA and UVB exposure.",
+        "price_inr": 649,
+        "how_to_use": "Apply generously to the face, neck, and exposed areas 15 minutes before sun exposure. Reapply every 2-3 hours when outdoors.",
+        "problems_it_solves": [
+          "Sun exposure",
+          "Sunburn",
+          "Uneven-looking skin tone caused by sun exposure",
+          "Premature visible signs of photoaging"
+        ],
+        "benefits": [
+          "Provides SPF 50 protection",
+          "Helps protect against UVA and UVB rays",
+          "Lightweight texture",
+          "Suitable for daily outdoor use"
+        ]
+      }
+    ],
+    "hair_care": [
+      {
+        "product_id": "LR-HAIR-001",
+        "product_name": "LReal ScalpFresh Anti-Dandruff Shampoo",
+        "description": "A cleansing shampoo designed to remove flakes and excess oil while keeping the scalp feeling fresh.",
+        "price_inr": 449,
+        "how_to_use": "Apply to wet hair and scalp. Massage gently for 1-2 minutes and rinse thoroughly. Use 2-3 times per week.",
+        "problems_it_solves": [
+          "Dandruff",
+          "Flaky scalp",
+          "Excess scalp oil",
+          "Scalp buildup"
+        ],
+        "benefits": [
+          "Helps reduce visible dandruff",
+          "Cleanses scalp buildup",
+          "Helps control excess oil",
+          "Leaves scalp feeling refreshed"
+        ]
+      },
+      {
+        "product_id": "LR-HAIR-002",
+        "product_name": "LReal RootBoost Hair Serum",
+        "description": "A lightweight scalp serum designed to support healthier-looking hair and improve the appearance of weak, thinning areas.",
+        "price_inr": 799,
+        "how_to_use": "Apply a few drops directly to the scalp and gently massage with fingertips. Use once daily.",
+        "problems_it_solves": [
+          "Weak-looking hair",
+          "Thinning appearance",
+          "Dry scalp",
+          "Hair breakage"
+        ],
+        "benefits": [
+          "Supports healthier-looking hair",
+          "Helps nourish the scalp",
+          "Lightweight and non-greasy",
+          "Helps improve the appearance of hair density"
+        ]
+      },
+      {
+        "product_id": "LR-HAIR-003",
+        "product_name": "LReal SilkRepair Conditioner",
+        "description": "A smoothing conditioner formulated to help moisturize dry and damaged-looking hair and improve manageability.",
+        "price_inr": 399,
+        "how_to_use": "After shampooing, apply from mid-length to ends. Leave for 2-3 minutes and rinse thoroughly.",
+        "problems_it_solves": [
+          "Dry hair",
+          "Rough hair",
+          "Tangled hair",
+          "Frizzy hair"
+        ],
+        "benefits": [
+          "Helps soften hair",
+          "Improves manageability",
+          "Helps reduce the appearance of frizz",
+          "Makes hair easier to detangle"
+        ]
+      },
+      {
+        "product_id": "LR-HAIR-004",
+        "product_name": "LReal FrizzShield Hair Mask",
+        "description": "A deep-conditioning hair mask designed for dry, rough, and frizzy hair.",
+        "price_inr": 549,
+        "how_to_use": "Apply generously to clean, damp hair from mid-length to ends. Leave for 5-10 minutes and rinse. Use 1-2 times per week.",
+        "problems_it_solves": [
+          "Severe dryness",
+          "Frizz",
+          "Rough hair texture",
+          "Damaged-looking hair"
+        ],
+        "benefits": [
+          "Provides intensive conditioning",
+          "Helps smooth rough hair",
+          "Reduces the appearance of frizz",
+          "Leaves hair softer and more manageable"
+        ]
+      },
+      {
+        "product_id": "LR-HAIR-005",
+        "product_name": "LReal NourishGlow Hair Oil",
+        "description": "A nourishing hair oil blend designed to condition dry hair and improve softness and shine.",
+        "price_inr": 349,
+        "how_to_use": "Apply a small amount to the scalp and hair lengths. Massage gently and leave for 30-60 minutes before shampooing.",
+        "problems_it_solves": [
+          "Dry scalp",
+          "Dry hair",
+          "Rough hair",
+          "Lack of shine"
+        ],
+        "benefits": [
+          "Helps nourish dry hair",
+          "Improves hair softness",
+          "Adds a healthy-looking shine",
+          "Helps reduce the feeling of dryness"
+        ]
+      }
+    ],
+    "body_care": [
+      {
+        "product_id": "LR-BODY-001",
+        "product_name": "LReal SoftSilk Body Lotion",
+        "description": "A daily moisturizing body lotion designed to hydrate and soften dry skin.",
+        "price_inr": 449,
+        "how_to_use": "Apply generously to clean, dry skin, preferably immediately after bathing. Use daily.",
+        "problems_it_solves": [
+          "Dry body skin",
+          "Rough skin",
+          "Skin tightness",
+          "Flaky skin"
+        ],
+        "benefits": [
+          "Provides daily hydration",
+          "Helps soften rough skin",
+          "Leaves skin smooth",
+          "Helps reduce dryness"
+        ]
+      },
+      {
+        "product_id": "LR-BODY-002",
+        "product_name": "LReal FreshBurst Body Wash",
+        "description": "A refreshing body wash designed to cleanse sweat, dirt, and excess oil while leaving the skin feeling fresh.",
+        "price_inr": 299,
+        "how_to_use": "Apply to wet skin using your hands, loofah, or bath sponge. Massage gently and rinse thoroughly.",
+        "problems_it_solves": [
+          "Sweat buildup",
+          "Body odor",
+          "Dirt and impurities",
+          "Excess body oil"
+        ],
+        "benefits": [
+          "Gently cleanses the body",
+          "Leaves skin feeling refreshed",
+          "Helps remove sweat and impurities",
+          "Suitable for everyday bathing"
+        ]
+      },
+      {
+        "product_id": "LR-BODY-003",
+        "product_name": "LReal SmoothAway Body Scrub",
+        "description": "A gentle exfoliating body scrub designed to remove dead skin cells and improve the appearance of rough skin.",
+        "price_inr": 499,
+        "how_to_use": "Apply to damp skin and gently massage in circular motions for 1-2 minutes. Rinse thoroughly. Use 1-2 times per week.",
+        "problems_it_solves": [
+          "Rough skin",
+          "Dead skin buildup",
+          "Uneven skin texture",
+          "Dull-looking body skin"
+        ],
+        "benefits": [
+          "Helps remove dead skin cells",
+          "Improves skin smoothness",
+          "Helps improve the appearance of skin texture",
+          "Leaves skin feeling softer"
+        ]
+      },
+      {
+        "product_id": "LR-BODY-004",
+        "product_name": "LReal Underarm Fresh Deo Roll-On",
+        "description": "A daily deodorant roll-on designed to help control underarm odor and provide a fresh feeling throughout the day.",
+        "price_inr": 249,
+        "how_to_use": "Apply to clean, dry underarms. Allow the product to dry before dressing.",
+        "problems_it_solves": [
+          "Underarm odor",
+          "Excessive feeling of sweat",
+          "Lack of freshness"
+        ],
+        "benefits": [
+          "Helps control body odor",
+          "Provides a fresh feeling",
+          "Easy daily application",
+          "Quick-drying formula"
+        ]
+      },
+      {
+        "product_id": "LR-BODY-005",
+        "product_name": "LReal HeelCare Foot Cream",
+        "description": "A rich foot cream designed to moisturize dry feet and soften rough heels.",
+        "price_inr": 349,
+        "how_to_use": "Apply generously to clean, dry feet, focusing on heels and other dry areas. Use once or twice daily.",
+        "problems_it_solves": [
+          "Dry feet",
+          "Rough heels",
+          "Cracked-looking heels",
+          "Rough skin"
+        ],
+        "benefits": [
+          "Provides intensive moisture",
+          "Helps soften rough heels",
+          "Improves the appearance of dry feet",
+          "Leaves feet feeling smoother"
+        ]
+      }
+    ]
+  }
+}
