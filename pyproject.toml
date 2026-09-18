@@ -22,3 +22,8 @@ product-advisor-agent = "product_advisor_agent:main"
 [build-system]
 requires = ["uv_build>=0.12.6,<0.13.0"]
 build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "langgraph-cli>=0.4.31",
+]
